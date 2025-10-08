@@ -1,0 +1,6 @@
+# Cảm nhận về Git
+
+- Git giúp tôi quản lý mã nguồn dễ dàng hơn.
+- Việc lưu lại lịch sử giúp theo dõi thay đổi rất tiện.
+- Dù lúc đầu hơi khó hiểu, nhưng càng làm càng thấy hay.
+
