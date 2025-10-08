@@ -14,3 +14,10 @@ Kỹ năng:
 2. Lập trình web bằng HTML, CSS, JavaScript.
 3. Làm việc nhóm và thuyết trình.
 
+Kế hoạch học tập:
+1. Ôn lại các lệnh Git cơ bản.
+2. Học cách tạo nhánh và merge nhánh.
+3. Tìm hiểu cách xử lý xung đột khi merge.
+4. Thực hành làm việc nhóm qua GitHub.
+5. Viết tài liệu và chia sẻ kinh nghiệm học Git.
+
