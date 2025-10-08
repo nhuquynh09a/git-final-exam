@@ -1,0 +1,8 @@
+# Tính năng mới: Gợi ý thực đơn theo sức khỏe
+
+1. Phân tích chỉ số BMI của người dùng.
+2. Gợi ý các món ăn phù hợp theo mục tiêu sức khỏe.
+3. Cho phép người dùng lưu kế hoạch ăn uống.
+4. Hiển thị tổng calo của từng bữa ăn.
+5. Cập nhật dữ liệu món ăn thường xuyên từ server.
+
